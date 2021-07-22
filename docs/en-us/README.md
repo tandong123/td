@@ -1,38 +1,42 @@
-## English Documentation
-This is an English Documentation
+## 中文文档
 
-Read Online
+在线阅读
 ---
 
--  **[Gitee Online](https://mochazi.gitee.io/docsify-demo)** | [Gitee address](https://gitee.com/mochazi/docsify-demo)
--  **[GitHub Online](https://mochazi.github.io/docsify-demo)** | [GitHub address](https://github.com/mochazi/docsify-demo)
+-  **[国内优先 Gitee 在线阅读](https://mochazi.gitee.io/docsify-demo)** | [Gitee 仓库地址](https://gitee.com/mochazi/docsify-demo)
+-  **[国外优先 GitHub 在线阅读](https://mochazi.github.io/docsify-demo)** | [GitHub 仓库地址](https://github.com/mochazi/docsify-demo)
 
-## Write a warning
+## 编写警告
 > [!WARNING]
-> Write `!WARNING` in`[]`
+> 在`[]`里面写入`!WARNING`即可
 >
-> This is a warning to beautify the plug-in using the markdown reference style
+> 这是一个使用了Markdown引用样式美化插件的警告
 
-## Writing a danger
+## 编写危险
 > [!Danger]
-> Write `!Danger` in`[]`
+> 在`[]`里面写入`!Danger`即可
 >
-> This is a danger to beautify the plug-in using the markdown reference style
+> 这是一个使用了Markdown引用样式美化插件的危险
 
-## Writing a tip
+## 编写提示
 > [!TIP]
-> Write `!TIP` in`[]`
+> 在`[]`里面写入`!TIP`即可
 >
-> This is a tip to beautify the plug-in using the markdown reference style
+> 这是一个使用了Markdown引用样式美化插件的提示
 
-## Writing a note
+## 编写注释
 > [!NOTE]
-> Write `!NOTE` in`[]`
+> 在`[]`里面写入`!NOTE`即可
 >
-> This is a note to beautify the plug-in using the markdown reference style
+> 这是一个使用了Markdown引用样式美化插件的注释
 
-## Writing custom warnings
+## 编写自定义警告
 > [!WARNING|label:Important]
-> Write `!WARNING|label:Important` in`[]`
+> 在`[]`里面写入`!WARNING|label:Important`即可
 >
-> The same goes for `Danger`，`TIP`，`NOTE`，` label:xxx `Implement customization
+> 同理`Danger`，`TIP`，`NOTE`添加`label:xxx`实现自定义
+
+## 访问量统计
+<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+
+
