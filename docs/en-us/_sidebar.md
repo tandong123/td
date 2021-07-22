@@ -22,6 +22,17 @@
 - Vue   
     - [Vue基础](en-us/Vue/Vue基础.md)
 
+- Linux   
+    - [Linux基础](en-us/Linux基础/Linux基础.md)
+- GUI   
+    - [GUI编程](en-us/GUI/GUI.md)
+
+- 汇编语言   
+    - [汇编语言](en-us/汇编语言/汇编语言.md)
+- 网络编程   
+    - [网络编程](en-us/网络编程/网络编程.md)
+- 注解反射   
+    - [注解反射](en-us/注解反射/注解反射.md)
 
 - 排序算法
     - [排序算法](en-us/排序算法.md)
