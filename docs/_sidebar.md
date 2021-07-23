@@ -33,5 +33,17 @@
 - 注解反射   
     - [注解反射](zh-cn/注解反射/注解反射.md)
 
+- 狂神-mybatis   
+    - [狂神-mybatis](zh-cn/狂神-mybatis/狂神-mybatis.md)
+
+- 狂神-Spring   
+    - [狂神-Spring](zh-cn/狂神-Spring/狂神-Spring.md)
+
+- 狂神-SpringMVC   
+    - [狂神-SpringMVC](zh-cn/狂神-SpringMVC/狂神-SpringMVC.md)
+
+- 狂神-SSM图书管理整合   
+    - [狂神-SSM图书管理整合](zh-cn/狂神-SSM图书管理整合/狂神-SSM图书管理整合.md)
+
 - 排序算法
     - [排序算法](zh-cn/排序算法.md)
