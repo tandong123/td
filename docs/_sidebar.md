@@ -10,6 +10,9 @@
 - MySql   
     - [MySql数据库](zh-cn/MySql/MySql数据库.md)
 
+- MyBatis   
+    - [MyBatis基础](zh-cn/MyBatis/MyBatis.md)
+
 - Spring   
     - [Spring入门](zh-cn/Spring/Spring.md)
 
