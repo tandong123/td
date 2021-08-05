@@ -1309,8 +1309,8 @@ input_text.value='12312312'
 "12312312"
 ```
 
-1. 下拉框     <select>
-2. 复选框，单选框   <radio> <checkbox>
+1. 下拉框   
+2. 复选框，单选框   
 
 ```javascript
 <form action="" method="post">
