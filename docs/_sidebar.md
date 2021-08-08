@@ -22,6 +22,9 @@
 - MyBatis   
     - [MyBatis基础](zh-cn/MyBatis/MyBatis.md)
 
+- Redis
+    - [Redis基础](zh-cn/Redis/Redis.md)
+
 - Spring   
     - [Spring入门](zh-cn/Spring/Spring.md)
 
