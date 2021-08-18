@@ -45,12 +45,18 @@
 - GUI   
     - [GUI编程](en-us/GUI/GUI.md)
 
+- ElasticSearch
+    - [ElasticSearch基础](en-us/ElasticSearch/ElasticSearch.md)
+
 - 汇编语言   
     - [汇编语言](en-us/汇编语言/汇编语言.md)
 - 网络编程   
     - [网络编程](en-us/网络编程/网络编程.md)
 - 注解反射   
     - [注解反射](en-us/注解反射/注解反射.md)
+
+- 设计模式
+    - [设计模式](en-us/23种设计模式/23种设计模式.md)
 
 - 狂神-mybatis   
     - [狂神-mybatis](en-us/狂神-mybatis/狂神-mybatis.md)

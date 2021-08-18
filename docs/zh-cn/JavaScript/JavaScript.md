@@ -28,7 +28,7 @@ ECMAScript  可以理解为javaScript的一个标准，最新版本是ECMAScript
 
 > 内部标签
 >
-> ```
+> ```html
 >     <!--script标签，写javascript脚本-->
 >     <!--直接引入,直接写入脚本-->
 >     <script>
@@ -41,7 +41,7 @@ ECMAScript  可以理解为javaScript的一个标准，最新版本是ECMAScript
 >
 > abs.js
 >
-> ```
+> ```html
 > <!--引入方式2 外部引入，必须这里script必须成对出现-->
 > <script src="js/abs.js"></script>
 > <!--不是必须要声明type类型-->
@@ -124,7 +124,9 @@ if(score>60&&score<70){
 ![image-20201114102214913](.\JavaScript.assets\image-20201114102214913.png)
 
    	1. network  查看网络用
+        
             	2. performance
+        
          	3. application   应用
                 	4. memory
                	5. Security
