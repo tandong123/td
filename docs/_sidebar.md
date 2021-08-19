@@ -17,8 +17,8 @@
     - [JavaScript基础](zh-cn/JavaScript/JavaScript.md)
 
 - Json和Ajax
-    - [Json和Ajax基础](zh-cn/JSON&AJAX/JSON.md)
-    - [Json和Ajax基础](zh-cn/JSON&AJAX/AJAX.md)
+    - [Json基础](zh-cn/JSON&AJAX/JSON.md)
+    - [Ajax基础](zh-cn/JSON&AJAX/AJAX.md)
 
 - MySql   
     - [MySql数据库](zh-cn/MySql/MySql数据库.md)

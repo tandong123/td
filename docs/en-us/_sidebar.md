@@ -14,8 +14,8 @@
     - [JavaScript基础](en-us/JavaScript/JavaScript.md)
 
 - Json和Ajax
-    - [Json和Ajax基础](en-us/JSON&AJAX/JSON.md)
-    - [Json和Ajax基础](en-us/JSON&AJAX/AJAX.md)
+    - [Json基础](en-us/JSON&AJAX/JSON.md)
+    - [Ajax基础](en-us/JSON&AJAX/AJAX.md)
 
 - JavaWeb   
     - [JavaWeb入门](en-us/JavaWeb/JavaWeb.md)
